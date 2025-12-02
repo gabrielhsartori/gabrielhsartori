@@ -7,14 +7,4 @@
 
 ---
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielhsartori&show_icons=true&theme=radical" />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhsartori&layout=compact&theme=radical" />
-
-</div>
-
----
-
 ![Snake animation](https://raw.githubusercontent.com/gabrielhsartori/gabrielhsartori/output/github-contribution-grid-snake.svg)
