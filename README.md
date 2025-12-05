@@ -38,7 +38,6 @@
 
 <br/><br/><br/><br/><br/><br/>
 
----
 
 ![Snake animation](https://raw.githubusercontent.com/gabrielhsartori/gabrielhsartori/output/github-contribution-grid-snake.svg)
 
